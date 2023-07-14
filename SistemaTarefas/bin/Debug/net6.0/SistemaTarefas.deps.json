@@ -13,7 +13,6 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.0",
           "SistemaTarefas.Data": "1.0.0",
-          "SistemaTarefas.Servico": "1.0.0",
           "SsitemaTarefas.Dominio": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
@@ -489,15 +488,6 @@
           "SistemaTarefas.Data.dll": {}
         }
       },
-      "SistemaTarefas.Servico/1.0.0": {
-        "dependencies": {
-          "SistemaTarefas.Data": "1.0.0",
-          "SsitemaTarefas.Dominio": "1.0.0"
-        },
-        "runtime": {
-          "SistemaTarefas.Servico.dll": {}
-        }
-      },
       "SsitemaTarefas.Dominio/1.0.0": {
         "runtime": {
           "SsitemaTarefas.Dominio.dll": {}
@@ -855,11 +845,6 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "SistemaTarefas.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "SistemaTarefas.Servico/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
