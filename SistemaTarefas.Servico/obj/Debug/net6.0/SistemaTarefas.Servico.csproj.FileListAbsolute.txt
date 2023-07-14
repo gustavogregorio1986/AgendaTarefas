@@ -1,0 +1,17 @@
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\bin\Debug\net6.0\SistemaTarefas.Servico.deps.json
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\bin\Debug\net6.0\SistemaTarefas.Servico.dll
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\bin\Debug\net6.0\SistemaTarefas.Servico.pdb
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\bin\Debug\net6.0\SistemaTarefas.Data.dll
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\bin\Debug\net6.0\SsitemaTarefas.Dominio.dll
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\bin\Debug\net6.0\SistemaTarefas.Data.pdb
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\bin\Debug\net6.0\SsitemaTarefas.Dominio.pdb
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\SistemaTarefas.Servico.csproj.AssemblyReference.cache
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\SistemaTarefas.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\SistemaTarefas.Servico.AssemblyInfoInputs.cache
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\SistemaTarefas.Servico.AssemblyInfo.cs
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\SistemaTarefas.Servico.csproj.CoreCompileInputs.cache
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\SistemaTarefas.Servico.csproj.CopyComplete
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\SistemaTarefas.Servico.dll
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\refint\SistemaTarefas.Servico.dll
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\SistemaTarefas.Servico.pdb
+C:\AgendaTarefas\SistemaTarefas\SistemaTarefas.Servico\obj\Debug\net6.0\ref\SistemaTarefas.Servico.dll

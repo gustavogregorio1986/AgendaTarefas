@@ -1,0 +1,12 @@
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\bin\Debug\net6.0\SsitemaTarefas.Dominio.deps.json
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\bin\Debug\net6.0\SsitemaTarefas.Dominio.dll
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\bin\Debug\net6.0\SsitemaTarefas.Dominio.pdb
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\SsitemaTarefas.Dominio.csproj.AssemblyReference.cache
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\SsitemaTarefas.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\SsitemaTarefas.Dominio.AssemblyInfoInputs.cache
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\SsitemaTarefas.Dominio.AssemblyInfo.cs
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\SsitemaTarefas.Dominio.csproj.CoreCompileInputs.cache
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\SsitemaTarefas.Dominio.dll
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\refint\SsitemaTarefas.Dominio.dll
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\SsitemaTarefas.Dominio.pdb
+C:\AgendaTarefas\SistemaTarefas\SsitemaTarefas.Dominio\obj\Debug\net6.0\ref\SsitemaTarefas.Dominio.dll

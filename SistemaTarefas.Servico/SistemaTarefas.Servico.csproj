@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaTarefas.Data\SistemaTarefas.Data.csproj" />
+    <ProjectReference Include="..\SsitemaTarefas.Dominio\SsitemaTarefas.Dominio.csproj" />
+  </ItemGroup>
+
 </Project>

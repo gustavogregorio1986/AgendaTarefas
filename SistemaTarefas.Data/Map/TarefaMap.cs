@@ -13,7 +13,12 @@ namespace SistemaTarefas.Data.Map
     {
         public void Configure(EntityTypeBuilder<Tarefa> builder)
         {
-            throw new NotImplementedException();
+            builder.HasKey(t => t.Id);
+            builder.Property(t => t.Titulo).IsRequired().HasMaxLength(80);
+            builder.Property(t => t.DataInicio).IsRequired();
+            builder.Property(t => t.DataFim).IsRequired();
+            builder.Property(t => t.Descricao).HasMaxLength(350);
+            builder.Property(t => t.Status).IsRequired();
         }
     }
 }
