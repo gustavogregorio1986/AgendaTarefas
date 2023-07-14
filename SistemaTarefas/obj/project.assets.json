@@ -718,20 +718,6 @@
           "bin/placeholder/SistemaTarefas.Data.dll": {}
         }
       },
-      "SistemaTarefas.Servico/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "SistemaTarefas.Data": "1.0.0",
-          "SsitemaTarefas.Dominio": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/SistemaTarefas.Servico.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SistemaTarefas.Servico.dll": {}
-        }
-      },
       "SsitemaTarefas.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2091,11 +2077,6 @@
       "path": "../SistemaTarefas.Data/SistemaTarefas.Data.csproj",
       "msbuildProject": "../SistemaTarefas.Data/SistemaTarefas.Data.csproj"
     },
-    "SistemaTarefas.Servico/1.0.0": {
-      "type": "project",
-      "path": "../SistemaTarefas.Servico/SistemaTarefas.Servico.csproj",
-      "msbuildProject": "../SistemaTarefas.Servico/SistemaTarefas.Servico.csproj"
-    },
     "SsitemaTarefas.Dominio/1.0.0": {
       "type": "project",
       "path": "../SsitemaTarefas.Dominio/SsitemaTarefas.Dominio.csproj",
@@ -2109,7 +2090,6 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.0",
       "SistemaTarefas.Data >= 1.0.0",
-      "SistemaTarefas.Servico >= 1.0.0",
       "SsitemaTarefas.Dominio >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -2143,9 +2123,6 @@
           "projectReferences": {
             "C:\\AgendaTarefas\\SistemaTarefas\\SistemaTarefas.Data\\SistemaTarefas.Data.csproj": {
               "projectPath": "C:\\AgendaTarefas\\SistemaTarefas\\SistemaTarefas.Data\\SistemaTarefas.Data.csproj"
-            },
-            "C:\\AgendaTarefas\\SistemaTarefas\\SistemaTarefas.Servico\\SistemaTarefas.Servico.csproj": {
-              "projectPath": "C:\\AgendaTarefas\\SistemaTarefas\\SistemaTarefas.Servico\\SistemaTarefas.Servico.csproj"
             },
             "C:\\AgendaTarefas\\SistemaTarefas\\SsitemaTarefas.Dominio\\SsitemaTarefas.Dominio.csproj": {
               "projectPath": "C:\\AgendaTarefas\\SistemaTarefas\\SsitemaTarefas.Dominio\\SsitemaTarefas.Dominio.csproj"
