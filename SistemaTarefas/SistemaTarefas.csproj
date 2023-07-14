@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SistemaTarefas.Data\SistemaTarefas.Data.csproj" />
-    <ProjectReference Include="..\SistemaTarefas.Servico\SistemaTarefas.Servico.csproj" />
     <ProjectReference Include="..\SsitemaTarefas.Dominio\SsitemaTarefas.Dominio.csproj" />
   </ItemGroup>
 
